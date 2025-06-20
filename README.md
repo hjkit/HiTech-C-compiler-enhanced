@@ -51,6 +51,15 @@ The C compiler's modified source files are included.
 
 See "How to install.txt" for the enhanced HiTech C detailed installation procedure
 
+IMPORTANT NOTE:
+
+In the folder P1 you may found a file named "P1 error and warning messages.txt".
+
+P1, in case it founds any problem in the C source file, issues a warning/error message.
+The total size of these messages is about 1KB, so I decided to replace some of the 
+warning/error messages with an index ( #N ), in order to gain some space.
+The file I mentioned contains the texts corresponding to all the indexes.
+
 (update on April, 2025)
 
 The RomWBW version is now available. You will need RomWBW v 3.5 (or later).
